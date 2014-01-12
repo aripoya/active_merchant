@@ -109,6 +109,7 @@ The [ActiveMerchant Wiki](http://github.com/Shopify/active_merchant/wikis) conta
 * [InstaPay](http://www.instapayllc.com) - US
 * [Iridium](http://www.iridiumcorp.co.uk/) - UK, ES
 * [iTransact](http://www.itransact.com/) - US
+* [Ipaymu](https://www.ipaymu.com/) -ID
 * [JetPay](http://www.jetpay.com) - US
 * [LinkPoint](http://www.linkpoint.com/) - US
 * [Litle](http://www.litle.com/) - US
